@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=levaniCS&show_icons=true&theme=dracula">
 
-<!--
-**levaniCS/levaniCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐟 Levan Sarishvili - @levaniCS
 
-Here are some ideas to get you started:
+Hi i'm Levani, Full stack web developer. Specialized in Merng stack (M-ongo, E-xpress, R-eact, N-ode, G-rapghql.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Some of my projects
+
+- [Social Network](Front: , Back: )
+- [Portfolio]()
+
+
+## 🖖 Get in touch
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/levani-sarishvili-632747199/)
+
